@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/About_City_item_view"
+            android:icon="@drawable/ic_about_city"
+            android:title="About City" />
+        <item
+            android:id="@+id/General_Places_item_view"
+            android:icon="@drawable/ic_general_places"
+            android:title="General Places" />
+        <item
+            android:id="@+id/Historical_Places_item_View"
+            android:icon="@drawable/ic_historical"
+            android:title="Historical Places" />
+        <item
+            android:id="@+id/Hotels_item_view"
+            android:icon="@drawable/ic_hotel"
+            android:title="Hotels" />
+        <item
+            android:id="@+id/Main_Markets_item_view"
+            android:icon="@drawable/ic_main_markets"
+            android:title="Main Markets" />
+        <item
+            android:id="@+id/Museums_And_Art_Galleries_item_view"
+            android:icon="@drawable/ic_museums"
+            android:title="Museums and Arts Galleries" />
+        <item
+            android:id="@+id/Parks_item_view"
+            android:icon="@drawable/ic_parks"
+            android:title="Parks" />
+        <item
+            android:id="@+id/Restaurants_item_view"
+            android:icon="@drawable/ic_restaurant"
+            android:title="Restaurants" />
+
+    </group>
+
+</menu>

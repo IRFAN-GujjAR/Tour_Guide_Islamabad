@@ -4,13 +4,6 @@ Tour Guide: Islamabad
 This app contains the information about Islamabad different places and it is created mainly for any tourist who wants to 
 visit the Islamabad City of Pakistan.
 
-Pre-requisites
---------------
-
-- Android SDK v28
-- Android Build Tools v28.0.0
-- Android Support Repository v28.0.0
-
 Getting Started
 ---------------
 
@@ -18,10 +11,9 @@ This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
 
-
 PROJECT LICENSE
 
-This project was submitted by IRFAN GujjAR as part of the Android Basics Nanodegree At Udacity.
+This project was created by IRFAN GujjAR as part of the Android Basics Nanodegree At Udacity.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code

@@ -10,10 +10,7 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-
-PROJECT LICENSE
-
-This project was created by IRFAN GujjAR as part of the Android Basics Nanodegree At Udacity.
+This project was created by IRFAN GujjAR as part of the Android Basics Nanodegree (Free Program) At Udacity.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
@@ -22,7 +19,11 @@ and the suspension of your account.
 Me, the author of the project, allow you to check the code as a reference, but if
 you submit it, it's your own responsibility if you get expelled.
 
+License
+-------
 Copyright (c) 2019 IRFAN GujjAR
+
+http://www.apache.org/licenses/LICENSE-2.0
 
 Besides the above notice, the following license applies and this license notice
 must be included in all works derived from this project.
